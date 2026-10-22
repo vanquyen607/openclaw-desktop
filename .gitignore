@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local tooling / OS files
+.kilocodemodes
+*.lnk
+/txt
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local runtime state and logs
+.openclaw/
+*.log
